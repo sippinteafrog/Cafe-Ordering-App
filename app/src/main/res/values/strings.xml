@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">RU Cafe</string>
+    <string name="picture_of_coffee_and_donut">picture of coffee and donut</string>
+    <string name="welcome">Welcome!</string>
+    <string name="what_would_you_like_to_do">What would you like to do?</string>
+    <string name="view_current_order">View Current Order</string>
+    <string name="view_stored_orders">View Stored Orders</string>
+    <string name="order_donuts">Order Donuts!</string>
+    <string name="order_coffee">Order Coffee!</string>
+    <string name="it_worked">It Worked!</string>
+    <string name="currentOrderPage">currentOrderPage</string>
+    <string name="stored_orders">Store Orders</string>
+    <string name="orderCoffee">order coffee</string>
+    <string name="orderDonuts">order donuts</string>
+    <string name="picture_of_coffee">Picture of Coffee</string>
+    <string name="picture_of_storeOrder">Picture of Coffee</string>
+    <string name="cream">Cream</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="caramel">Caramel</string>
+    <string name="milk">Milk</string>
+    <string name="syrup">Syrup</string>
+    <string name="add_to_order">Add to Order</string>
+    <string name="select_a_size">Select a size</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="shopping_cart_image">Shopping cart image</string>
+    <string name="tax">Tax</string>
+    <string name="total">Total</string>
+    <string name="place_order">Place Order</string>
+    <string-array name="coffee_sizes">
+        <item>Short</item>
+        <item>Tall</item>
+        <item>Grande</item>
+        <item>Venti</item>
+    </string-array>
+    <string-array name="flavorSpinner">
+        <item>--Select a Flavor--</item>
+        <item>Old Fashioned</item>
+        <item>Glazed</item>
+        <item>Boston Cream</item>
+        <item>Pink Frosted</item>
+        <item>Jelly</item>
+        <item>Powdered</item>
+        <item>Chocolate</item>
+        <item>Blueberry</item>
+    </string-array>
+    <string-array name="donutQuantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
+
